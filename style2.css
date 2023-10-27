@@ -1,0 +1,68 @@
+header {
+  background: #65727c;
+  border-bottom: 0px solid #531919;
+  padding: 30px ;
+  
+}
+
+header hgroup {
+  text-align: center;
+} 
+
+.capibara {
+  
+  float: left;
+  width: 180px;
+  
+}
+footer{
+  background: #b5bac9;
+  border-bottom: 8px solid #531919;
+  padding: 80px ;
+  text-align: center;
+}
+
+.name{
+  color: black;
+}
+.cv{
+  color: black;
+}
+
+main{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Helvetica, Sans-serif;
+color: white;
+background-color: #8e9496;;
+font-size: 12px
+}
+
+.p1{
+  background: #666f88;
+  border-bottom: 8px solid #531919;
+  padding: 80px ;
+  text-align: center;
+}
+.p2{
+  background: #788199;
+  border-bottom: 8px solid #531919;
+  padding: 80px ;
+  text-align: center;
+}
+.p3{
+  background: #8990a2;
+  border-bottom: 8px solid #531919;
+  padding: 80px ;
+  text-align: center;
+}
+.p4{
+  background: #a3a8b7;
+  border-bottom: 8px solid #531919;
+  padding: 80px ;
+  text-align: center;
+}
+
+   
+  
+
+ 
+ 
